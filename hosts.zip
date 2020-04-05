@@ -1,0 +1,22 @@
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+0.0.0.0 localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0 
+::1             ip6-localhost
+
+0.0.0.0 dlied1.qq.com
+0.0.0.0 www.qq.com
+0.0.0.0 .qq.com
+0.0.0.0 http://gameguardian.net
+0.0.0.0 vmp.qq.com
+0.0.0.0 astat.bugly.qcloud.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 0.0.0.0 
+::1             ip6-localhost
